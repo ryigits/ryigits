@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/ysezginer/" target="blank">Linkedin</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://frienznetwork.s3.amazonaws.com/zXxcFGCbmesah_Xt.png" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
