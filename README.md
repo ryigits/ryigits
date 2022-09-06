@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently Working on Coffee101-POS
 
-- 🤝 I’m available for EU Zone Developer positions.
+- 🤝 I’m available For EU Zone Developer positions.
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently Learning TypeScript
 
 - 💬 Ask me about **React and How to prepare an Espresso**
 
